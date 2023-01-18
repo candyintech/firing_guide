@@ -112,7 +112,7 @@ Remember that while most states ask for your monthly income in these forms, Medi
 
 # Accessing Affordable Healthcare
 
-Unfortunately, having health insurance is only have the battle when you're on a limited income. Even with insurance, there are still co-pays and deductibles, and out-of-pocket maximums. 
+Unfortunately, having health insurance is only half the battle when you're on a limited income. Even with insurance, there are still co-pays and deductibles, and out-of-pocket maximums. 
 
 ## Community Health Centers
 
