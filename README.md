@@ -11,3 +11,6 @@ Unemployment is difficult, isolating, and emotionally taxing. At the same time a
 Mapbox, in particular, has left the authors of this guide with little information, causing such authors to have to learn how to advocate for themselves in ways that have had lasting consequences. This guide is a collection of our past learnings.
 
 ---
+
+# Contained in this guide:
+# 1. [Acessing Healthcare](healthcare.md)
